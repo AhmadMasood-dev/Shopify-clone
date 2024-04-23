@@ -139,3 +139,87 @@ a {
 #freetrail1:hover {
   background-color: rgb(216, 215, 215) !important;
 }
+#text- {
+  width: 554px;
+  display: flex;
+  margin-top: 60px;
+  margin-left: 90px;
+  flex-direction: column;
+}
+#txt1 {
+  height: 128px;
+  width: 554px;
+  color: white;
+  font-size: 56px;
+  display: block;
+}
+#txt2 {
+  height: 96px;
+  width: 554px;
+  margin-top: 10px;
+  color: white;
+  font-size: 22px;
+  font-weight: 100;
+  display: block;
+  align-items: flex-start;
+}
+#bottm {
+  margin-bottom: 90px;
+  height: 56px;
+  width: 100% !important;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+}
+#leftbottom {
+  display: flex;
+  width: 550px;
+  height: 55.3px;
+  flex-direction: row;
+  align-items: center;
+  margin-left: 90px;
+}
+#freetrail2 {
+  width: 143.975px;
+  height: 43.2px;
+  color: black;
+  background-color: white;
+  align-content: center;
+  text-align: center;
+  border-radius: 52px;
+}
+#freetrail2:hover {
+  background-color: transparent !important;
+  color: white;
+}
+#leftbottom p {
+  color: white;
+  margin-left: 10px;
+}
+#rightbottom {
+  display: flex;
+  height: 55.3px;
+  width: 274px;
+  margin-right: 90px;
+  align-items: center;
+  justify-content: center;
+}
+
+#watchstory {
+  display: flex;
+  background-color: gray;
+  color: white;
+  font-size: 18px;
+  text-align: center;
+  height: 55.3px;
+  border-radius: 45px;
+  width: 274px;
+  align-items: center;
+  justify-content: center;
+  align-content: center;
+}
+#watchstory:hover {
+  background-color: white;
+  color: black;
+}
